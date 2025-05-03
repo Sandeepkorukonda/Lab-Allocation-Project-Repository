@@ -1,0 +1,17 @@
+Lab Name,Capacity
+AB-05,72
+AB-04,72
+AB-03,70
+Edgar F. Codd,66
+Mark Zuckerberg,66
+Tim Berners-Lee,70
+Larry Page,72
+James Gosling,62
+Dennis Ritchie,62
+VLSI Lab,60
+
+Time Slot,Lab 1,Lab 2,Lab 3
+8,10,AB-04,Edgar F. Codd,James Gosling
+10,12,AB-05,AB-03,VLSI Lab
+14,16,AB-03,Mark Zuckerberg,Larry Page
+16,18,AB-04,Dennis Ritchie,Tim Berners-Lee
